@@ -1,0 +1,6 @@
+C:\Users\Sabbir\Desktop\CarShowRoomManagmentSystem\CarShowRoomManagmentSystem.Entity\bin\Debug\CarShowRoomManagmentSystem.Entity.exe.config
+C:\Users\Sabbir\Desktop\CarShowRoomManagmentSystem\CarShowRoomManagmentSystem.Entity\bin\Debug\CarShowRoomManagmentSystem.Entity.exe
+C:\Users\Sabbir\Desktop\CarShowRoomManagmentSystem\CarShowRoomManagmentSystem.Entity\bin\Debug\CarShowRoomManagmentSystem.Entity.pdb
+C:\Users\Sabbir\Desktop\CarShowRoomManagmentSystem\CarShowRoomManagmentSystem.Entity\obj\Debug\CarShowRoomManagmentSystem.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Sabbir\Desktop\CarShowRoomManagmentSystem\CarShowRoomManagmentSystem.Entity\obj\Debug\CarShowRoomManagmentSystem.Entity.exe
+C:\Users\Sabbir\Desktop\CarShowRoomManagmentSystem\CarShowRoomManagmentSystem.Entity\obj\Debug\CarShowRoomManagmentSystem.Entity.pdb
